@@ -1,0 +1,1 @@
+SELECT * FROM book_store.book_stock;
